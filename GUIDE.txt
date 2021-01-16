@@ -1,0 +1,11 @@
+if you server has a password Open the config file and add your password else Do not change anything.
+Copy the DATABASE.sql codes to your mysql database to create all the necesary tables and the database.
+The admin username is admin and password is admin123
+A student registeres first before loging in
+Thanks 
+
+
+
+MEMBERS
+Marko Ewoi __1036581
+Abdilaziz Husein ____1039139
